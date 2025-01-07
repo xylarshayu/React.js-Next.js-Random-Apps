@@ -1,0 +1,12 @@
+[submodule "Medify-Crio"]
+	path = Medify-Crio
+	url = https://github.com/xshayu/Medify-Crio
+[submodule "bot--mock-ai-crio"]
+	path = bot--mock-ai-crio
+	url = https://github.com/xshayu/bot--mock-ai-crio
+[submodule "crio-pagination"]
+	path = crio-pagination
+	url = https://github.com/xshayu/crio-pagination.git
+[submodule "L-square-QTify"]
+	path = L-square-QTify
+	url = https://github.com/xshayu/L-square-QTify.git
